@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# USERNAME و REPO را با مقادیر واقعی عوض کنید
+Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
